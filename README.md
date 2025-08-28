@@ -116,10 +116,7 @@ This system is built using an **ESP32 development board** to ensure accurate tim
 
 ## 🌐 Simulation
 View and test this project on Wokwi:  
-👉 [Open Wokwi Simulation](#)
-
----
-
+👉 [[Open Wokwi Simulation](https://wokwi.com/projects/426754863944303617)](#)
 
 ---
 
