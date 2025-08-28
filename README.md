@@ -1,5 +1,7 @@
 # Smart MediBox– Smart Medication Reminder System(Part 01)
 
+![Circuit Diagram](images/circuit-diagram.png)  
+
 ![ESP32](https://img.shields.io/badge/Platform-ESP32-blue)  
 ![Language](https://img.shields.io/badge/Language-Arduino-green)  
 ![Simulation](https://img.shields.io/badge/Simulation-Wokwi-orange)  
@@ -21,8 +23,8 @@ This system is built using an **ESP32 development board** to ensure accurate tim
 
 ## 👤 Author
 
-**Name:** Piyumantha W.A.S
-**Index Number:** 220483D
+***Name:** Piyumantha W.A.S
+***Index Number:** 220483D
 
 ---
 
