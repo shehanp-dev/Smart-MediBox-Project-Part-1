@@ -1,4 +1,4 @@
-# Smart MediBox-Part 01– Smart Medication Reminder System
+# Smart MediBox– Smart Medication Reminder System(Part 01)
 
 ![ESP32](https://img.shields.io/badge/Platform-ESP32-blue)  
 ![Language](https://img.shields.io/badge/Language-Arduino-green)  
