@@ -1,0 +1,6 @@
+# Ignore system files
+.DS_Store
+*.vcd
+*.bak
+*.tmp
+__pycache__/
