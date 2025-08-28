@@ -67,7 +67,7 @@ This system is built using an **ESP32 development board** to ensure accurate tim
 ---
 
 ## 📐 Circuit & Design Files
-* **Circuit Diagram** – ![View](Circuit_diagram.jpg)  
+* **Circuit Diagram** ![View](Circuit_diagram.jpg)  
 * **Schematic Diagram** – *(Add image link here)*  
 * **PCB Layout** – *(Add image link here)*  
 * **2D View** – *(Add image link here)*  
