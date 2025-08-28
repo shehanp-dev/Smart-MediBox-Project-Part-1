@@ -3,7 +3,6 @@
 ![ESP32](https://img.shields.io/badge/Platform-ESP32-blue)  
 ![Language](https://img.shields.io/badge/Language-Arduino-green)  
 ![Simulation](https://img.shields.io/badge/Simulation-Wokwi-orange)  
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ---
 
