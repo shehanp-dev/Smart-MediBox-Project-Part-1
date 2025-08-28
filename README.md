@@ -87,8 +87,7 @@ WiFi.h
 
 ## 🖼 Circuit & Layouts
 ![Circuit Diagram](images/circuit-diagram.png)  
-![PCB Layout](images/pcb-layout.png)  
-![Device Photo](images/device-photo.jpg)  
+
 
 ---
 
