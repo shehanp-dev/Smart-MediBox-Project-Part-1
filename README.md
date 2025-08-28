@@ -8,7 +8,7 @@
 ---
 
 ## 🖼 Circuit Diagram
-![Circuit Diagram](View.jpg)
+![Circuit Diagram](View.png)
 
 ---
 
